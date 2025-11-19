@@ -30,7 +30,7 @@ Highlights:
 - 🎨 Creative NFT Artist, Sitarist, Photographer, and YouTuber — I blend tech + art to make AI accessible
 
 📫 Email: **[tonumoymukherjee2@gmail.com](mailto:tonumoymukherjee2@gmail.com)**  
-🔗 LinkedIn: **[https://www.linkedin.com/in/bodhi108/](https://www.linkedin.com/in/bodhi108/)**
+🔗 LinkedIn: **[LinkedIn](https://www.linkedin.com/in/bodhi108/)**
 
 ---
 
