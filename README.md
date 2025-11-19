@@ -1,98 +1,98 @@
-<!-- 
-Hello! You're looking at the source code for my GitHub profile.
-I've designed this to showcase my skills and projects in the field of AI.
-Feel free to take inspiration for your own profile!
+<!--
+Tonumoy Mukherjee — GitHub Profile README (v2)
+Professional, recruiter-friendly, and visually modern — copy/paste this to README.md
 -->
 
 <div align="center">
-  <h1 style="display: inline-block;">Hi, I'm Tonumoy Mukherjee 👋</h1>
-  <h3>AI Researcher & Data Scientist</h3>
+
+# 👋 Hi, I'm **Tonumoy Mukherjee**
+### 🚀 AI Researcher • Technical Lead • Creative Technologist
+*Blending Science, Engineering, and Art into Intelligent Systems*
+
+<!-- Professional header GIF (chosen for data/analytics/AI profile) -->
+<p align="center">
+  <img alt="3D Cool Statistics — professional data gif" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="540" />
+</p>
+
 </div>
 
-<!-- Optional: A beautiful header banner. Create one in Canva or similar tools! -->
-<!-- <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="A banner showing my name and skills">
-</p> -->
+---
+
+## ⭐ About Me
+
+I am a dynamic **Research & Development professional with 9+ years of experience in Machine Learning, Deep Learning, NLP, and Large Language Models (LLMs)**.  
+Currently a **Technical Lead** (AI/ML) with a proven record of building scalable systems, generative AI solutions, and autonomous agents.
+
+Highlights:
+- 🔬 Built **Early Earthquake Warning Systems** at IIT Kharagpur  
+- 🔐 Enhanced **Data Privacy Solutions** at Tuteck Technologies  
+- 🤖 Led engineering & research projects across production ML, RAG systems, and agentic AI  
+- 🎨 Creative NFT Artist, Sitarist, Photographer, and YouTuber — I blend tech + art to make AI accessible
+
+📫 Email: **[tonumoymukherjee2@gmail.com](mailto:tonumoymukherjee2@gmail.com)**  
+🔗 LinkedIn: **[https://www.linkedin.com/in/bodhi108/](https://www.linkedin.com/in/bodhi108/)**
 
 ---
 
-### 👨‍💻 About Me
+## ⚡ What I Do
 
-I am an AI Researcher and Data Scientist with a deep specialization in **Generative AI**, **Large Language Models (LLMs)**, and **Agentic AI systems**. My expertise extends across the full spectrum of modern AI, including **Deep Learning**, **Natural Language Processing (NLP)**, and **Computer Vision**.
-
-- 🔭 I'm currently building **autonomous AI agents** and fine-tuning LLMs for specialized tasks.
-- 🧠 I am passionate about pushing the boundaries of artificial intelligence and developing systems that can reason, create, and solve complex problems.
-- 📫 How to reach me: **[tonumoymukherjee2@gmail.com](mailto:tonumoymukherjee2@gmail.com)**
-- 📄 Let's connect on **[LinkedIn](https://www.linkedin.com/in/tonumoymukherjee/)**
-
----
-
-### 🛠️ My Tech Stack
-
-My toolkit is a blend of cutting-edge AI frameworks and robust development technologies.
-
-<p align="center">
-  <strong><h4>🤖 AI & Machine Learning</h4></strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,numpy,pandas" />
-  </a>
-  <br>
-  <strong><h4>⚙️ Tools & Platforms</h4></strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,postman,vscode,linux" />
-  </a>
-</p>
+- Design & deploy **autonomous AI agents** and multi-agent pipelines  
+- Fine-tune and adapt **LLMs** for domain-specific tasks and workflows  
+- Build **RAG, retrieval systems,** and production ML pipelines (MLOps)  
+- Combine **NLP + CV + generative models** to create practical and creative systems  
+- Create visual simulations, mathematical animations, and AI-driven creative content
 
 ---
 
-<!--### 🏆 My Featured Projects
+## 🛠️ Tech Stack
 
-Here are some of the projects I'm most proud of. This is where I apply my skills to solve real-world problems.
+<div align="center">
 
-<!-- PROJECT 1 -->
-<!--<details>
-  <summary><strong>🚀 Project 1: [Your Project Name Here - e.g., Autonomous Research Agent]</strong></summary>
-  <br>
-  This project features an AI agent built with LangChain and multiple LLMs that can autonomously research a topic, browse the web, and generate a comprehensive report.
-  <ul>
-    <li><strong>Tech Stack:</strong> Python, LangChain, OpenAI API, Tavily API, Streamlit</li>
-    <li><strong>Key Achievement:</strong> Implemented a multi-agent collaboration framework (e.g., planner, researcher, writer) that significantly improved report quality.</li>
-    <li><a href="YOUR_GITHUB_REPO_LINK_HERE">[GitHub Repository]</a></li>
-  </ul>
+### 🤖 AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,scikitlearn,opencv,numpy,pandas,langchain" alt="ai icons" />
+
+### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,jupyter,matlab,tableau" alt="tools icons" />
+
+</div>
+
+---
+
+<!--
+## 🏆 Featured Projects (high level)
+
+> I maintain **24 repositories** — tell me if you want a polished showcase page for each. I can auto-generate cards and short summaries.
+
+<details>
+  <summary><strong>🚀 Autonomous Agent Framework</strong></summary>
+  A LangChain-based multi-agent orchestration system: planner → researcher → writer pipeline for autonomous topic research and report generation.
+  - **Stack:** Python, LangChain, OpenAI APIs, Streamlit
+  - **Result:** Improved end-to-end reasoning and report quality via task-specialized agents
 </details>
 
-<!-- PROJECT 2 -->
-<!--<details>
-  <summary><strong>🖼️ Project 2: [Your Project Name Here - e.g., Fine-Tuned Image Captioning Model]</strong></summary>
-  <br>
-  A deep learning project where I fine-tuned a Vision Transformer (ViT) model on a custom dataset to generate highly accurate and context-aware image captions.
-  <ul>
-    <li><strong>Tech Stack:</strong> PyTorch, Hugging Face Transformers, OpenCV, Weights & Biases</li>
-    <li><strong>Key Achievement:</strong> Achieved a 15% improvement in BLEU score over the baseline model by implementing a novel attention mechanism.</li>
-    <li><a href="YOUR_GITHUB_REPO_LINK_HERE">[GitHub Repository]</a></li>
-  </ul>
+<details>
+  <summary><strong>🖼️ Vision Transformer — Image Captioning</strong></summary>
+  ViT fine-tuning on custom datasets to produce context-aware image captions.
+  - **Stack:** PyTorch, Hugging Face, OpenCV
+  - **Result:** +15% BLEU improvement via a custom attention tweak
 </details>
 
-<!-- PROJECT 3 -->
-<!--<details>
-  <summary><strong>💬 Project 3: [Your Project Name Here - e.g., RAG-based Customer Support Chatbot]</strong></summary>
-  <br>
-  Developed a chatbot using Retrieval-Augmented Generation (RAG) to provide instant, accurate answers from a large knowledge base of technical documentation.
-  <ul>
-    <li><strong>Tech Stack:</strong> TensorFlow, FAISS, LlamaIndex, Node.js, React</li>
-    - <strong>Key Achievement:</strong> Reduced query latency by 40% and hallucination rates by 95% compared to a non-RAG baseline.
-    <li><a href="YOUR_GITHUB_REPO_LINK_HERE">[GitHub Repository]</a></li>
-  </ul>
+<details>
+  <summary><strong>💬 RAG-Based Customer Support Chatbot</strong></summary>
+  Retrieval-Augmented Generation system for accurate, low-hallucination responses from technical docs.
+  - **Stack:** TF, FAISS, LlamaIndex
+  - **Result:** Lower latency & hallucination vs. baseline
 </details>
+-->
 
---- -->
+---
 
-### 📊 My GitHub Stats
+## 📊 GitHub Insights
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tonumoy&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tonumoy&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-</p>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tonumoy&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="github stats" />
+  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tonumoy&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="top languages" />
+</div>
 
 <p align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tonumoy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonumoy&theme=tokyonight&hide_border=true" />
@@ -100,11 +100,11 @@ Here are some of the projects I'm most proud of. This is where I apply my skills
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect with Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/tonumoymukherjee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:tonumoymukherjee2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bodhi108/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:tonumoymukherjee2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <!-- Add other links like Twitter or your portfolio website -->
 <!-- <a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a> -->
 </p>
@@ -115,3 +115,6 @@ Here are some of the projects I'm most proud of. This is where I apply my skills
 
 <!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+---
