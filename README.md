@@ -49,10 +49,10 @@ Highlights:
 <div align="center">
 
 ### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,scikitlearn,opencv,numpy,pandas,langchain" alt="ai icons" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,numpy,pandas,langchain" alt="ai icons" />
 
 ### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,jupyter,matlab,tableau" alt="tools icons" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,anaconda,matlab,postman" alt="tools icons" />
 
 </div>
 
