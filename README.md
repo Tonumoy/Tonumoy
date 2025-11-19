@@ -39,18 +39,18 @@ My toolkit is a blend of cutting-edge AI frameworks and robust development techn
   <br>
   <strong><h4>⚙️ Tools & Platforms</h4></strong>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,postman,vscode,jupyter,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,postman,vscode,linux" />
   </a>
 </p>
 
 ---
 
-### 🏆 My Featured Projects
+<!--### 🏆 My Featured Projects
 
 Here are some of the projects I'm most proud of. This is where I apply my skills to solve real-world problems.
 
 <!-- PROJECT 1 -->
-<details>
+<!--<details>
   <summary><strong>🚀 Project 1: [Your Project Name Here - e.g., Autonomous Research Agent]</strong></summary>
   <br>
   This project features an AI agent built with LangChain and multiple LLMs that can autonomously research a topic, browse the web, and generate a comprehensive report.
@@ -62,7 +62,7 @@ Here are some of the projects I'm most proud of. This is where I apply my skills
 </details>
 
 <!-- PROJECT 2 -->
-<details>
+<!--<details>
   <summary><strong>🖼️ Project 2: [Your Project Name Here - e.g., Fine-Tuned Image Captioning Model]</strong></summary>
   <br>
   A deep learning project where I fine-tuned a Vision Transformer (ViT) model on a custom dataset to generate highly accurate and context-aware image captions.
@@ -74,7 +74,7 @@ Here are some of the projects I'm most proud of. This is where I apply my skills
 </details>
 
 <!-- PROJECT 3 -->
-<details>
+<!--<details>
   <summary><strong>💬 Project 3: [Your Project Name Here - e.g., RAG-based Customer Support Chatbot]</strong></summary>
   <br>
   Developed a chatbot using Retrieval-Augmented Generation (RAG) to provide instant, accurate answers from a large knowledge base of technical documentation.
@@ -85,7 +85,7 @@ Here are some of the projects I'm most proud of. This is where I apply my skills
   </ul>
 </details>
 
----
+--- -->
 
 ### 📊 My GitHub Stats
 
