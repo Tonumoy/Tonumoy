@@ -44,7 +44,7 @@ Highlights:
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
 <p align="center">
   <strong><h4>🤖 AI & Machine Learning</h4></strong>
@@ -57,7 +57,7 @@ Highlights:
     <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,anaconda,linux,postman" />
   </a>
 </p>
----
+
 
 <!--
 ## 🏆 Featured Projects (high level)
