@@ -46,16 +46,17 @@ Highlights:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### 🤖 AI & Machine Learning
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,numpy,pandas,langchain" alt="ai icons" />
-
-### ⚙️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,anaconda,matlab,postman" alt="tools icons" />
-
-</div>
-
+<p align="center">
+  <strong><h4>🤖 AI & Machine Learning</h4></strong>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,numpy,pandas" />
+  </a>
+  <br>
+  <strong><h4>⚙️ Tools & Platforms</h4></strong>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,anaconda,linux,postman" />
+  </a>
+</p>
 ---
 
 <!--
