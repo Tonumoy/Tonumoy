@@ -90,13 +90,14 @@ Highlights:
 
 ## 📊 GitHub Insights
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Tonumoy&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" alt="github stats" />
-  <img width="48%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tonumoy&theme=tokyonight&hide_border=true&no-bg=true&no-frame=true&langs_count=10" alt="top languages" />
-</div>
-
 <p align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tonumoy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tonumoy&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tonumoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tonumoy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonumoy&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </p>
 
 ---
