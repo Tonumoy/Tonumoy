@@ -34,12 +34,12 @@ My toolkit is a blend of cutting-edge AI frameworks and robust development techn
 <p align="center">
   <strong><h4>🤖 AI & Machine Learning</h4></strong>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,scikitlearn,langchain,opencv,numpy,pandas" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,numpy,pandas" />
   </a>
   <br>
   <strong><h4>⚙️ Tools & Platforms</h4></strong>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,anaconda,postman,vscode,jupyter,linux" />
   </a>
 </p>
 
